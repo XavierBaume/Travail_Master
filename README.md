@@ -1,6 +1,6 @@
+*espace*
 
-
-- ***Scripts d’analyse des données***  
+- **Scripts d’analyse des données**  
   Les scripts utilisés pour l’analyse des données sont référencés dans les chapitres et sous-chapitres correspondant à leur utilisation dans le mémoire.
 
 - ***Dossier [`model/`](./model)***
