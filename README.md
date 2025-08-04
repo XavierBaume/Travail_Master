@@ -15,3 +15,6 @@
 - ***Fichier [`requirements.txt`](./requirements.txt)***  
   Liste l’ensemble des bibliothèques nécessaires à l’exécution des scripts.
 
+- **Dossier [`raw_data/`](./raw_data)***
+  Contient un échantillon de 100 documents HTML et JSON
+
