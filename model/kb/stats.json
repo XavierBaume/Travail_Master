@@ -1,0 +1,88 @@
+{
+  "nb_mentions": 115350,
+  "nb_entities": 8489,
+  "top_alias": [
+    [
+      "Runciman",
+      1
+    ],
+    [
+      "England",
+      1
+    ],
+    [
+      "Henlein",
+      1
+    ],
+    [
+      "France",
+      1
+    ],
+    [
+      "Marquis de Banneville",
+      1
+    ],
+    [
+      "J. Dubs",
+      1
+    ],
+    [
+      "Kohlierwidert",
+      1
+    ],
+    [
+      "Laur",
+      1
+    ],
+    [
+      "Ungarn",
+      1
+    ],
+    [
+      "Bâle",
+      1
+    ]
+  ],
+  "top_entity": [
+    [
+      "https://dodis.ch/G5",
+      5549
+    ],
+    [
+      "https://dodis.ch/G77",
+      4380
+    ],
+    [
+      "https://dodis.ch/G13",
+      4338
+    ],
+    [
+      "https://dodis.ch/G31",
+      2740
+    ],
+    [
+      "https://dodis.ch/G14",
+      2152
+    ],
+    [
+      "https://dodis.ch/G25",
+      1910
+    ],
+    [
+      "https://dodis.ch/G11",
+      1871
+    ],
+    [
+      "https://dodis.ch/G18",
+      1762
+    ],
+    [
+      "https://dodis.ch/G28",
+      1675
+    ],
+    [
+      "https://dodis.ch/R6",
+      1513
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+.
+├── chapter4
+│   └── 4.3
+├── chapter5
+│   ├── 5.2
+│   ├── 5.3
+│   └── 5.4
+├── chapter6
+│   ├── 6.1
+│   └── 6.2
+├── model
+│   ├── cli
+│   ├── for_training
+│   ├── kb
+│   └── trained_model
+├── requirements.txt
+└── structure.txt
+
+15 directories, 2 files

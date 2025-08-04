@@ -1,0 +1,16 @@
+langue,type_entite,nb_mentions
+français,PER,5330
+français,LOC,7977
+français,ORG,301
+allemand,PER,29318
+allemand,LOC,63790
+allemand,ORG,10996
+anglais,PER,45
+anglais,LOC,151
+anglais,ORG,15
+italien,PER,16
+italien,LOC,85
+italien,ORG,0
+inconnue,PER,62
+inconnue,LOC,209
+inconnue,ORG,26
