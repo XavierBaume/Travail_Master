@@ -3,8 +3,8 @@
 #### Soumission durant la session d’août 2025
 
 ## Dépôt des scripts de programmation
-- **Scripts d’analyse des données**  
-  Les scripts utilisés pour l’analyse des données sont référencés dans les chapitres et sous-chapitres correspondant à leur utilisation dans le mémoire.
+- **Scripts d’analyse des données**
+-- Les scripts utilisés pour l’analyse des données sont référencés dans les chapitres et sous-chapitres correspondant à leur utilisation dans le mémoire.
 
 - ***Dossier [`model/`](./model)***
   Contient tous les scripts liés à la préparation et à l’entraînement des modèles.
