@@ -4,20 +4,26 @@
 
 ## Dépôt des scripts de programmation
 - **Scripts d’analyse des données**
+
   Les scripts utilisés pour l’analyse des données sont référencés dans les chapitres et sous-chapitres correspondant à leur utilisation dans le mémoire.
 
 - ***Dossier [`model/`](./model)***
+
   Contient tous les scripts liés à la préparation et à l’entraînement des modèles.
 
-- ***Sous-dossier [`trained_model/`](./model/trained_model)***  
+- ***Sous-dossier [`trained_model/`](./model/trained_model)***
+
   Contient les modèles entraînés eux-mêmes.
 
-- ***Fichier [`requirements.txt`](./requirements.txt)***  
+- ***Fichier [`requirements.txt`](./requirements.txt)***
+
   Liste l’ensemble des bibliothèques nécessaires à l’exécution des scripts.
 
 - **Dossier [`raw_data/`](./raw_data)**
+
   Contient un échantillon de 100 documents HTML et JSON.
   
 - **Manuscript [MASTER_MANUSCRIPT.pdf](./MASTER_MANUSCRIPT.pdf)**
+
   Mémoire de master soumis
 
