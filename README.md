@@ -17,4 +17,7 @@
 
 - **Dossier [`raw_data/`](./raw_data)**
   Contient un échantillon de 100 documents HTML et JSON.
+  
+- **Manuscript [MASTER_MANUSCRIPT.pdf](/.MASTER_MANUSCRIPT.pdf)
+  Mémoire de master soumis
 
