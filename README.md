@@ -25,5 +25,5 @@
   
 - **Manuscript [`MASTER_MANUSCRIPT.pdf`](./MASTER_MANUSCRIPT.pdf)**
 
-  Mémoire de master soumis
+  Mémoire de master soumis.
 
